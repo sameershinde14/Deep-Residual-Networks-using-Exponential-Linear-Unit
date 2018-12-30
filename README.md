@@ -1,4 +1,4 @@
 # Deep-Residual-Networks-using-Exponential-Linear-Unit
 Very deep convolutional neural networks introduced new problems like vanishing gradient and degradation. The recent successful contributions towards solving these problems are Residual and Highway Networks. These networks introduce skip connections that allow the information (from the input or those learned in earlier layers) to flow more into the deeper layers. These very deep models have lead to a considerable decrease in test errors, on benchmarks like ImageNet and COCO. In this paper, we propose the use of exponential linear unit instead of the combination of ReLU and Batch Normalization in Residual Networks. We show that this not only speeds up learning in Residual Networks but also improves the accuracy as the depth increases. It improves the test error on almost all data sets, like CIFAR-10 and CIFAR-100
 
-The details about this paper are here.
+The details about this paper are [here](https://arxiv.org/abs/1604.04112).
