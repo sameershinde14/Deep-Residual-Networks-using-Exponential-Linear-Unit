@@ -1,0 +1,2 @@
+# Deep-Residual-Networks-using-Exponential-Linear-Unit
+•     Designed deep residual learning model with exponential linear unit for image classification with higher accuracy. •     Decreased the error rate to 5.62% and 26.55% on CIFAR-10 and CIFAR-100 datasets respectively which outpaced the most competitive         approaches previously published. •     Published research paper for the same on 21th Sept 2016 at ACM conference. 
